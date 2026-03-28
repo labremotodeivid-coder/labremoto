@@ -1,4 +1,4 @@
-# Sobre o Lab Remoto
+# Sobre o Lab Saraaaa
 
 ## Nossa História
 O Lab Remoto nasceu com a missão de tornar a ciência acessível a todos,
