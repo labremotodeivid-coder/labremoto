@@ -1,4 +1,4 @@
-# 🧪 Trilho de Ar — Guia de Usoooooooo
+# 🧪 Trilho de Ar — Guia de Uso
 
 > Bem-vindo ao experimento **Trilho de Ar** do **Lab Remoto UNIFEI**!
 > Siga os passos abaixo para realizar o experimento com segurança.
