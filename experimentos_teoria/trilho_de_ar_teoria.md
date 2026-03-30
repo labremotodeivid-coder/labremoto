@@ -13,10 +13,10 @@ A posição $x$ de um corpo em movimento uniformemente variado é dada por:
 $$x = x_0 + v_0 t + \frac{1}{2} a t^2$$
 
 Onde:
-- $x_0$ → posição inicial (m)
-- $v_0$ → velocidade inicial (m/s)
-- $a$ → aceleração (m/s²)
-- $t$ → tempo (s)
+- $x_0$ = posição inicial (m)
+- $v_0$ = velocidade inicial (m/s)
+- $a$ = aceleração (m/s²)
+- $t$ = tempo (s)
 
 ---
 
@@ -61,9 +61,9 @@ Portanto a aceleração do carrinho é:
 $$a = g \sin\theta$$
 
 Onde:
-- $m$ → massa do carrinho (kg)
-- $g$ → aceleração gravitacional ≈ 9,8 m/s²
-- $\theta$ → ângulo de inclinação do trilho
+- $m$ = massa do carrinho (kg)
+- $g$ = aceleração gravitacional ≈ 9,8 m/s²
+- $\theta$ = ângulo de inclinação do trilho
 
 ---
 
@@ -115,17 +115,17 @@ $$\frac{1}{2}mv_1^2 + mgh_1 = \frac{1}{2}mv_2^2 + mgh_2$$
 
 ### Gráfico Posição × Tempo
 
-- **MU** → reta com inclinação constante
-- **MUV** → parábola
+- **MU** = reta com inclinação constante
+- **MUV** = parábola
 
 ### Gráfico Velocidade × Tempo
 
-- **MU** → reta horizontal
-- **MUV** → reta com inclinação = aceleração
+- **MU** = reta horizontal
+- **MUV** = reta com inclinação = aceleração
 
 ### Gráfico Aceleração × Tempo
 
-- **MUV** → reta horizontal (aceleração constante)
+- **MUV** = reta horizontal (aceleração constante)
 
 ---
 
