@@ -1,58 +1,63 @@
-# Como Utilizar o Trilho de Ar
+# 🧪 Trilho de Ar — Guia de Uso
 
-Bem-vindo ao experimento **Trilho de Ar** do Lab Remoto! Siga os passos abaixo para realizar o experimento corretamente.
-
----
-
-## 1. Ligar o Equipamento
-
-Ative o switch **"LIGAR EQUIPAMENTO"** para energizar o trilho de ar.
-
-> Aguarde alguns segundos até o sistema estar pronto.
+> Bem-vindo ao experimento **Trilho de Ar** do **Lab Remoto UNIFEI**!
+> Siga os passos abaixo para realizar o experimento com segurança.
 
 ---
 
-## 2. Ajustar a Inclinação
+## ⚡ Passo 1 — Ligar o Equipamento
 
-Use os botões de **SUBIR** e **BAIXAR** para ajustar o ângulo do trilho.
+Ative o switch **LIGAR EQUIPAMENTO** na tela principal.
 
-- **Pressione e segure** o botão para inclinar continuamente.
-- **Solte** o botão para parar a inclinação.
-
----
-
-## 3. Soltar o Carrinho
-
-Pressione **"SOLTAR"** para liberar o carrinho no trilho.
-
-- O botão ficará desabilitado durante o experimento.
-- Após 10 segundos, o botão **"RETORNAR"** será habilitado.
+> 💡 Aguarde alguns segundos até o sistema estar completamente pronto antes de prosseguir.
 
 ---
 
-## 4. Coletar os Dados
+## 📐 Passo 2 — Ajustar a Inclinação
+
+Use os botões **⬆️ SUBIR** e **⬇️ BAIXAR** para definir o ângulo do trilho.
+
+| Ação | Como fazer |
+|------|-----------|
+| Inclinar | Pressione e **segure** o botão |
+| Parar | **Solte** o botão |
+
+---
+
+## 🚀 Passo 3 — Soltar o Carrinho
+
+Pressione **SOLTAR** para liberar o carrinho no trilho.
+
+- 🔒 O botão ficará **desabilitado** durante o percurso
+- ⏱️ Após **10 segundos**, o botão **RETORNAR** será habilitado
+
+---
+
+## 📊 Passo 4 — Coletar os Dados
 
 Os sensores registram automaticamente a **posição** e o **tempo** do carrinho.
 
-Os dados aparecem na tabela **"DADOS COLETADOS"** ao final do percurso.
+Os resultados aparecem na tabela **DADOS COLETADOS** ao final do percurso.
 
 ---
 
-## 5. Retornar o Carrinho
+## 🔄 Passo 5 — Retornar o Carrinho
 
-Pressione **"RETORNAR"** para trazer o carrinho de volta à posição inicial.
+Pressione **RETORNAR** para trazer o carrinho à posição inicial.
 
-- Uma contagem regressiva de **100 segundos** será exibida.
-- Após o retorno, o botão **"SOLTAR"** será reabilitado.
-
----
-
-## ⚠️ Observações Importantes
-
-- Não desligue o equipamento durante o experimento.
-- Aguarde sempre o retorno completo antes de realizar uma nova medição.
-- Em caso de falha, use o botão de **reconexão** na câmera.
+- ⏳ Uma contagem regressiva de **100 segundos** será exibida
+- ✅ Ao finalizar, o botão **SOLTAR** será reabilitado automaticamente
 
 ---
 
-*Lab Remoto © 2025 — UNIFEI Itajubá*
+## ⚠️ Atenção
+
+> Leia com atenção antes de iniciar o experimento.
+
+- ❌ **Não desligue** o equipamento durante o experimento
+- ⏸️ Aguarde sempre o **retorno completo** antes de nova medição
+- 📡 Em caso de falha na câmera, use o botão de **reconexão**
+
+---
+
+*🔬 Lab Remoto © 2025 — UNIFEI Itajubá*
