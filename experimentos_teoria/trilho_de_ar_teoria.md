@@ -75,7 +75,7 @@ $$\vec{F}_{AB} = -\vec{F}_{BA}$$
 
 ## 3. 📐 Plano Inclinado
 
-![Diagrama do plano inclinado](https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/experimentos_info/trilho_diagrama.png)
+![Diagrama do plano inclinado](https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/main/morango.png)
 
 No trilho inclinado com ângulo $\theta$, as forças que atuam no carrinho são:
 
