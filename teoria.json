@@ -113,6 +113,120 @@
           "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
         }
       ]
+    },
+    {
+      "nome": "Matemática",
+      "icone": "calculate",
+      "cor": "#6A1B9A",
+      "teorias": [
+        {
+          "id": "algebra",
+          "titulo": "Álgebra Linear",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "calculo_diferencial",
+          "titulo": "Cálculo Diferencial",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "calculo_integral",
+          "titulo": "Cálculo Integral",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "equacoes_diferenciais",
+          "titulo": "Equações Diferenciais",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "probabilidade",
+          "titulo": "Probabilidade",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "estatistica",
+          "titulo": "Estatística",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "geometria_analitica",
+          "titulo": "Geometria Analítica",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "trigonometria",
+          "titulo": "Trigonometria",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "numeros_complexos",
+          "titulo": "Números Complexos",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "logica_matematica",
+          "titulo": "Lógica Matemática",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        }
+      ]
+    },
+    {
+      "nome": "Programação",
+      "icone": "psychology",
+      "cor": "#BF360C",
+      "teorias": [
+        {
+          "id": "python_basico",
+          "titulo": "Python Básico",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "estrutura_dados",
+          "titulo": "Estruturas de Dados",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "algoritmos",
+          "titulo": "Algoritmos",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "poo",
+          "titulo": "Orientação a Objetos",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "banco_dados",
+          "titulo": "Banco de Dados",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "redes",
+          "titulo": "Redes de Computadores",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "sistemas_operacionais",
+          "titulo": "Sistemas Operacionais",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "inteligencia_artificial",
+          "titulo": "Inteligência Artificial",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "desenvolvimento_web",
+          "titulo": "Desenvolvimento Web",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        },
+        {
+          "id": "flutter",
+          "titulo": "Flutter & Dart",
+          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
+        }
+      ]
     }
   ]
 }
