@@ -3,124 +3,7 @@
     {
       "nome": "Física",
       "icone": "science",
-      "cor": "#1565C0",{
-  "areas": [
-    {
-      "nome": "Física",
-      "icone": "science",
       "cor": "#1565C0",
-      "teorias": [
-        {
-          "id": "trilho_de_ar",
-          "titulo": "Trilho de Ar",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "pendulo_simples",
-          "titulo": "Pêndulo Simples",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "mru",
-          "titulo": "Movimento Retilíneo Uniforme",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "mruv",
-          "titulo": "Movimento Uniformemente Variado",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "leis_newton",
-          "titulo": "Leis de Newton",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "energia_trabalho",
-          "titulo": "Energia e Trabalho",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "ondas",
-          "titulo": "Ondas Mecânicas",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "optica",
-          "titulo": "Óptica Geométrica",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "eletromagnetismo",
-          "titulo": "Eletromagnetismo",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "termodinamica",
-          "titulo": "Termodinâmica",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        }
-      ]
-    },
-    {
-      "nome": "Química",
-      "icone": "biotech",
-      "cor": "#2E7D32",
-      "teorias": [
-        {
-          "id": "tabela_periodica",
-          "titulo": "Tabela Periódica",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "ligacoes_quimicas",
-          "titulo": "Ligações Químicas",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "solucoes",
-          "titulo": "Soluções e Misturas",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "reacoes_quimicas",
-          "titulo": "Reações Químicas",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "estequiometria",
-          "titulo": "Estequiometria",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "acidos_bases",
-          "titulo": "Ácidos e Bases",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "eletroquimica",
-          "titulo": "Eletroquímica",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "gases",
-          "titulo": "Gases Ideais",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "organica",
-          "titulo": "Química Orgânica",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "cinetica",
-          "titulo": "Cinética Química",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        }
-      ]
-    }
-  ]
-}
       "teorias": [
         {
           "id": "trilho_de_ar",
@@ -141,7 +24,7 @@
           "id": "aaaa",
           "titulo": "Pêndulo Simples",
           "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
+        }
       ]
     },
     {
@@ -151,4 +34,4 @@
       "teorias": []
     }
   ]
-}
+}  consegue colocar 10 itens nesse j.son em cada um prf a imagem pode usar a mesma
