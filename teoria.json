@@ -1,0 +1,27 @@
+{
+  "areas": [
+    {
+      "nome": "Física",
+      "icone": "science",
+      "cor": "#1565C0",
+      "teorias": [
+        {
+          "id": "trilho_de_ar",
+          "titulo": "Trilho de Ar",
+          "imagemUrl": "https://raw.githubusercontent.com/..."
+        },
+        {
+          "id": "pendulo",
+          "titulo": "Pêndulo Simples",
+          "imagemUrl": "https://raw.githubusercontent.com/..."
+        }
+      ]
+    },
+    {
+      "nome": "Química",
+      "icone": "biotech",
+      "cor": "#2E7D32",
+      "teorias": [...]
+    }
+  ]
+}
