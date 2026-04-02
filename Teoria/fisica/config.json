@@ -1,0 +1,17 @@
+{
+  "area": "fisica",
+  "teorias": [
+    {
+      "id": "pendulo_simples",
+      "aulas": 2,
+      "videos": 1,
+      "perguntas": 1
+    },
+    {
+      "id": "termodinamica",
+      "aulas": 1,
+      "videos": 1,
+      "perguntas": 1
+    }
+  ]
+}
