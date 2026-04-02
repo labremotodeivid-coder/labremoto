@@ -1,0 +1,15 @@
+{
+  "area": "matematica",
+  "teorias": [
+    { "id": "algebra",               "aulas": 0, "videos": 0, "perguntas": 0 },
+    { "id": "calculo_diferencial",   "aulas": 0, "videos": 0, "perguntas": 0 },
+    { "id": "calculo_integral",      "aulas": 0, "videos": 0, "perguntas": 0 },
+    { "id": "equacoes_diferenciais", "aulas": 0, "videos": 0, "perguntas": 0 },
+    { "id": "probabilidade",         "aulas": 0, "videos": 0, "perguntas": 0 },
+    { "id": "estatistica",           "aulas": 0, "videos": 0, "perguntas": 0 },
+    { "id": "geometria_analitica",   "aulas": 0, "videos": 0, "perguntas": 0 },
+    { "id": "trigonometria",         "aulas": 0, "videos": 0, "perguntas": 0 },
+    { "id": "numeros_complexos",     "aulas": 0, "videos": 0, "perguntas": 0 },
+    { "id": "logica_matematica",     "aulas": 0, "videos": 0, "perguntas": 0 }
+  ]
+}
