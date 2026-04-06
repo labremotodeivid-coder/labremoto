@@ -6,8 +6,8 @@
       "cor": "#1565C0",
       "teorias": [
         {
-          "id": "trilho_de_ar",
-          "titulo": "Trilho de Ar",
+          "id": "dinamica",
+          "titulo": "Dinâmica",
           "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
         },
         {
