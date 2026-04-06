@@ -5,100 +5,9 @@
       "icone": "science",
       "cor": "#1565C0",
       "teorias": [
-        {{
-  "areas": [
-    {
-      "nome": "Física",
-      "icone": "science",
-      "cor": "#1565C0",
-      "teorias": [
-        {
-          "id": "cinematica",
-          "titulo": "Cinemática",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
         {
           "id": "dinamica",
           "titulo": "Dinâmica",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "energia",
-          "titulo": "Energia e Trabalho",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        }
-      ]
-    },
-    {
-      "nome": "Química",
-      "icone": "biotech",
-      "cor": "#2E7D32",
-      "teorias": [
-        {
-          "id": "estrutura_atomica",
-          "titulo": "Estrutura Atômica",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "ligacoes_quimicas",
-          "titulo": "Ligações Químicas",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "reacoes_quimicas",
-          "titulo": "Reações Químicas",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        }
-      ]
-    },
-    {
-      "nome": "Matemática",
-      "icone": "calculate",
-      "cor": "#6A1B9A",
-      "teorias": [
-        {
-          "id": "algebra",
-          "titulo": "Álgebra",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "geometria",
-          "titulo": "Geometria",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "calculo",
-          "titulo": "Cálculo",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        }
-      ]
-    },
-    {
-      "nome": "Programação",
-      "icone": "psychology",
-      "cor": "#BF360C",
-      "teorias": [
-        {
-          "id": "algoritmos",
-          "titulo": "Algoritmos",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "estrutura_dados",
-          "titulo": "Estruturas de Dados",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        },
-        {
-          "id": "programacao_orientada_objetos",
-          "titulo": "Programação Orientada a Objetos",
-          "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
-        }
-      ]
-    }
-  ]
-}
-          "id": "trilho_de_ar",
-          "titulo": "Trilho de Ar",
           "imagemUrl": "https://raw.githubusercontent.com/labremotodeivid-coder/labremoto/main/morango.png"
         },
         {
@@ -320,4 +229,4 @@
       ]
     }
   ]
-}
+} consegue colocar so 3 em cada topico prf por enquanto
