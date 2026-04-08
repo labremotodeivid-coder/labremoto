@@ -1,12 +1,13 @@
 {
   "teoria": [
-    { "titulo": "Capitulo 1",        "arquivo": "cap1.md"     },
+    { "titulo": "Capitulo 1",           "arquivo": "cap1.md"      },
     { "titulo": "Atrito",               "arquivo": "atrito.md"    },
     { "titulo": "Plano Inclinado",      "arquivo": "plano.md"     },
     { "titulo": "Movimento Circular",   "arquivo": "circular.md"  }
   ],
   "videos": [
-    { "titulo": "Introdução à Dinâmica",  "youtube": "https://www.youtube.com/watch?v=JyGWkU2bPdg" },
-    { "titulo": "Leis de Newton",         "youtube": "https://www.youtube.com/watch?v=UwufhI352ww" }
-  ]
+    { "titulo": "Introdução à Dinâmica", "youtube": "https://www.youtube.com/watch?v=JyGWkU2bPdg" },
+    { "titulo": "Leis de Newton",        "youtube": "https://www.youtube.com/watch?v=UwufhI352ww" }
+  ],
+  "formulas": "formulas.md"
 }
