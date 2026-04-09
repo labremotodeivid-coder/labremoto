@@ -9,5 +9,10 @@
     { "titulo": "Introdução à Dinâmica", "youtube": "https://www.youtube.com/watch?v=JyGWkU2bPdg" },
     { "titulo": "Leis de Newton",        "youtube": "https://www.youtube.com/watch?v=UwufhI352ww" }
   ],
-  "formulas": "formulas.md"
+  "formulas": "formulas.md",
+  "exercicios": [
+    { "pergunta": "perguntas/pergunta_01.md", "resposta": "perguntas/resposta_01.md" },
+    { "pergunta": "perguntas/pergunta_02.md", "resposta": "perguntas/resposta_02.md" },
+    { "pergunta": "perguntas/pergunta_03.md", "resposta": "perguntas/resposta_03.md" }
+  ]
 }
