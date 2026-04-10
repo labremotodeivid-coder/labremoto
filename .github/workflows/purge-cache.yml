@@ -1,0 +1,13 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr cache
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/labremotodeivid-coder/labremoto@main/teoria_todos/"
