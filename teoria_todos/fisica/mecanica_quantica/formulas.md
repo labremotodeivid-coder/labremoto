@@ -2,7 +2,7 @@
 
 ---
 
-## 🌊 Relação de De Broglieeeeeeee
+## 🌊 Relação de De Broglie
 
 $$\lambda = \frac{h}{p}$$
 
